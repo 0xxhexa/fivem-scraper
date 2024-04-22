@@ -1,0 +1,4 @@
+colorama
+time
+webbrowser
+os
